@@ -24,7 +24,7 @@ Below is the word cloud for opinions
 
 After the visualization, the text was converted into vectors with TF-IDF vectorizer.
 
-## Construct AND Interpret
+## Construct and Interpret
 
 **The approach:**
 
